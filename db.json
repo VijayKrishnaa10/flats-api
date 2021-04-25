@@ -3,52 +3,72 @@
     {
       "id": "1",
       "name": "SkyPark",
-      "dataparamname": "skyparkchennai"
+      "dataparamname": "skyparkchennai",
+	  "userId":"0055g000006SyS2AAK"
+	  "recordid":"a055g000001BF4QAAW"
     },
     {
       "id": "2",
       "name": "Sassy",
-      "dataparamname": "sassyhyderabad"
+      "dataparamname": "sassyhyderabad",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "3",
       "name": "Mantri",
-      "dataparamname": "mantrichennai"
+      "dataparamname": "mantrichennai",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "4",
       "name": "Crown",
-      "dataparamname": "crownbangalore"
+      "dataparamname": "crownbangalore",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "5",
       "name": "Appaswamy",
-      "dataparamname": "appaswamybangalore"
+      "dataparamname": "appaswamybangalore",
+	  "userId":"0055g000006SyS2AAK",
+	  "recordid":"a055g000001BF4VAAW"
     },
     {
       "id": "6",
       "name": "CasaGrand",
-      "dataparamname": "casagrandchennai"
+      "dataparamname": "casagrandchennai",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "7",
       "name": "GragonFly",
-      "dataparamname": "dragonflymumbai"
+      "dataparamname": "dragonflymumbai",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "8",
       "name": "Harmony",
-      "dataparamname": "harmonypune"
+      "dataparamname": "harmonypune",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "9",
       "name": "Nu tech",
-      "dataparamname": "nutechjaipur"
+      "dataparamname": "nutechjaipur",
+	  "userId":"",
+	  "recordid":""
     },
     {
       "id": "10",
       "name": "Orbit",
-      "dataparamname": "orbitbangalore"
+      "dataparamname": "orbitbangalore",
+	  "userId":"",
+	  "recordid":""
     }
     
   ]
