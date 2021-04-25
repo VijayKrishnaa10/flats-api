@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "SkyPark",
+      "dataparamname": "skyparkchennai"
+    },
+    {
+      "id": "2",
+      "name": "Sassy",
+      "dataparamname": "sassyhyderabad"
+    },
+    {
+      "id": "3",
+      "name": "Mantri",
+      "dataparamname": "mantrichennai"
+    },
+    {
+      "id": "4",
+      "name": "Crown",
+      "dataparamname": "crownbangalore"
+    },
+    {
+      "id": "5",
+      "name": "Appaswamy",
+      "dataparamname": "appaswamybangalore"
+    },
+    {
+      "id": "6",
+      "name": "CasaGrand",
+      "dataparamname": "casagrandchennai"
+    },
+    {
+      "id": "7",
+      "name": "GragonFly",
+      "dataparamname": "dragonflymumbai"
+    },
+    {
+      "id": "8",
+      "name": "Harmony",
+      "dataparamname": "harmonypune"
+    },
+    {
+      "id": "9",
+      "name": "Nu tech",
+      "dataparamname": "nutechjaipur"
+    },
+    {
+      "id": "10",
+      "name": "Orbit",
+      "dataparamname": "orbitbangalore"
+    }
+    
+  ]
+}
